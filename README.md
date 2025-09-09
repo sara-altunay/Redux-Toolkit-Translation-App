@@ -201,3 +201,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ using React, Redux Toolkit, and Vite**
 # Redux-Toolkit-Translation-App
+# Redux-Toolkit-Translation-App
